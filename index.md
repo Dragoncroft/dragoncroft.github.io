@@ -1,16 +1,16 @@
-# Tell Me And I Forget
+# Tell Me And I Forget, Involve Me and I Learn
 
-### Docker Stuff
+## Docker Stuff
 [Build the Perfect Media Server with Docker](https://blog.linuxserver.io/2017/06/24/the-perfect-media-server-2017/)
 
-### NSX Stuff
+## NSX Stuff
 [Understanding VMware NSX](https://www.juniper.net/documentation/en_US/release-independent/nce/topics/concept/metafabric-2.0-vmware-nsx.html)
 
-### Python Stuff
+## Python Stuff
 
-### Storage Stuff
+## Storage Stuff
 [Object vs File](https://cloudian.com/blog/object-storage-vs-file-storage/)
 
-### Markdown Stuff
+## Markdown Stuff
 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
