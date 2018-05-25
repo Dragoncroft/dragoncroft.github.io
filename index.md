@@ -5,11 +5,18 @@
 
 [Radarr and Docker for Home Media](https://www.smarthomebeginner.com/install-radarr-using-docker/)
 
+## VMWare
+[Hands On Labs](http://labs.hol.vmware.com/HOL/catalogs/catalog/681)
+
+[PowerCLI Blog](https://blogs.vmware.com/powercli)
+
 ## OpenShift Stuff
 [OpenShift 3.x Developer's Guide](https://docs.openshift.com/container-platform/3.5/dev_guide/index.html)
 
 ## PowerShell and PowerCLI
 [The PowerCLI God - LucD](http://www.lucd.info/)
+
+[9 PoSH Scripts for Every Admin](http://techgenix.com/essential-powershell-scripts/?li_source=LI&li_medium=tg-home-page)
 
 ## NSX Stuff
 [Understanding VMware NSX](https://www.juniper.net/documentation/en_US/release-independent/nce/topics/concept/metafabric-2.0-vmware-nsx.html)
