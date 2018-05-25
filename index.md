@@ -8,6 +8,9 @@
 ## OpenShift Stuff
 [OpenShift 3.x Developer's Guide](https://docs.openshift.com/container-platform/3.5/dev_guide/index.html)
 
+## PowerShell and PowerCLI
+[The PowerCLI God - LucD](http://www.lucd.info/)
+
 ## NSX Stuff
 [Understanding VMware NSX](https://www.juniper.net/documentation/en_US/release-independent/nce/topics/concept/metafabric-2.0-vmware-nsx.html)
 
