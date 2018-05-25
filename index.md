@@ -5,6 +5,9 @@
 
 [Radarr and Docker for Home Media](https://www.smarthomebeginner.com/install-radarr-using-docker/)
 
+## OpenShift Stuff
+[OpenShift 3.x Developer's Guide](https://docs.openshift.com/container-platform/3.5/dev_guide/index.html)
+
 ## NSX Stuff
 [Understanding VMware NSX](https://www.juniper.net/documentation/en_US/release-independent/nce/topics/concept/metafabric-2.0-vmware-nsx.html)
 
