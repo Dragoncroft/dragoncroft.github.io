@@ -1,9 +1,10 @@
 ## Tell Me And I Forget
 
-You can use the [editor on GitHub](https://github.com/Dragoncroft/dragoncroft.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Docker Stuff
+[https://blog.linuxserver.io/2017/06/24/the-perfect-media-server-2017/]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+# NSX Stuff
+[https://www.juniper.net/documentation/en_US/release-independent/nce/topics/concept/metafabric-2.0-vmware-nsx.html]
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
