@@ -9,6 +9,7 @@
 ### Python Stuff
 
 ### Storage Stuff
+[Object vs File](https://cloudian.com/blog/object-storage-vs-file-storage/)
 
 ### Markdown Stuff
 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
