@@ -5,6 +5,12 @@
 
 [Radarr and Docker for Home Media](https://www.smarthomebeginner.com/install-radarr-using-docker/)
 
+[Getting Started with Docker](https://takacsmark.com/getting-started-with-docker-in-your-project-step-by-step-tutorial/)
+
+[Docker Jumpstart](http://odewahn.github.io/docker-jumpstart/)
+
+[Dockerfile Reference](https://docs.docker.com/engine/reference/builder/)
+
 ## VMWare
 [Hands On Labs](http://labs.hol.vmware.com/HOL/catalogs/catalog/681)
 
