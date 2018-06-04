@@ -11,6 +11,18 @@
 
 [Dockerfile Reference](https://docs.docker.com/engine/reference/builder/)
 
+## Grafana
+
+[Open-Source Monitoring--Prometheus and Grafana with Kubernetes](https://blog.lwolf.org/post/going-open-source-in-monitoring-part-i-deploying-prometheus-and-grafana-to-kubernetes/)
+
+[Grafana Installation](https://docs.grafana.org/installation/)
+
+[Building a Dashboard with Grafana, InfluxDB and PowerCLI](https://whalnetwork.com/2015/04/29/building-a-dashboard-with-grafana-influxdb-and-powercli/)
+
+[vSphere Performance data with Grafana Dashboards](https://www.rudimartinsen.com/2017/07/21/vsphere-performance-data-part-6-the-dashboards/)
+
+[More vSphere with Grafana](https://github.com/jorgedlcruz/vmware-grafana)
+
 ## VMWare
 [Hands On Labs](http://labs.hol.vmware.com/HOL/catalogs/catalog/681)
 
