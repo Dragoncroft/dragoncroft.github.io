@@ -11,6 +11,10 @@
 
 [Dockerfile Reference](https://docs.docker.com/engine/reference/builder/)
 
+[Play with Docker -- Terrific virtual lab](https://play-with-docker.com) 
+
+[Docker Quizzes and labs](https://training.play-with-docker.com)
+
 ## Grafana
 
 [Open-Source Monitoring--Prometheus and Grafana with Kubernetes](https://blog.lwolf.org/post/going-open-source-in-monitoring-part-i-deploying-prometheus-and-grafana-to-kubernetes/)
