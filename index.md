@@ -15,6 +15,9 @@
 
 [Docker Quizzes and labs](https://training.play-with-docker.com)
 
+[Awesome Kubernetes Resources](https://github.com/ramitsurana/awesome-kubernetes)
+
+
 ## Grafana
 
 [Open-Source Monitoring--Prometheus and Grafana with Kubernetes](https://blog.lwolf.org/post/going-open-source-in-monitoring-part-i-deploying-prometheus-and-grafana-to-kubernetes/)
