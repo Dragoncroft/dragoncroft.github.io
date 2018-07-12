@@ -45,6 +45,8 @@
 
 [WSUS Automation plus good PoSH resource](http://damgoodadmin.com/2017/11/05/fully-automate-software-update-maintenance-in-cm/)
 
+[Good Powershell including moving to Core](https://pldmgg.github.io)
+
 ## NSX Stuff
 [Understanding VMware NSX](https://www.juniper.net/documentation/en_US/release-independent/nce/topics/concept/metafabric-2.0-vmware-nsx.html)
 
