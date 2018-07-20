@@ -1,5 +1,8 @@
 # Old Dogs, New Tricks
 
+## Cloud
+[Cloud Native Computing Foundation -- Excellent guides](https://github.com/cncf/landscape/blob/master/README.md#trail-map)
+
 ## Docker Stuff
 [Build the Perfect Media Server with Docker](https://blog.linuxserver.io/2017/06/24/the-perfect-media-server-2017/)
 
