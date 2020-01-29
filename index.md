@@ -8,6 +8,7 @@
 
 ## Python Stuff
 [Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+
 [Automate the Boring Stuff 2nd Edition](https://automatetheboringstuff.com/2e/)
 
 ## Storage Stuff
