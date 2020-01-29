@@ -3,6 +3,9 @@
 ## Ansible Stuff
 [The Playbook Papers - RHEL Ansible Specialist materials](https://www.lucidchart.com/documents/view/4b454bc1-80ea-4753-9457-7496a5bf661e/ROBCCA~8.scY)
 
+## GIT and SCM
+[Pro Git Book Online](https://git-scm.com/book/en/v2)
+
 ## Storage Stuff
 [Object vs File](https://cloudian.com/blog/object-storage-vs-file-storage/)
 
