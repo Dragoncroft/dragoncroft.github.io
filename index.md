@@ -1,5 +1,18 @@
 # Old Dogs, New Tricks
 
+## Ansible Stuff
+[The Playbook Papers - RHEL Ansible Specialist materials](https://www.lucidchart.com/documents/view/4b454bc1-80ea-4753-9457-7496a5bf661e/ROBCCA~8.scY)
+
+## Storage Stuff
+[Object vs File](https://cloudian.com/blog/object-storage-vs-file-storage/)
+
+## Python Stuff
+[Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+[Automate the Boring Stuff 2nd Edition](https://automatetheboringstuff.com/2e/)
+
+## Storage Stuff
+[Object vs File](https://cloudian.com/blog/object-storage-vs-file-storage/)
+
 ## Cloud
 [Cloud Native Computing Foundation -- Excellent guides](https://github.com/cncf/landscape/blob/master/README.md#trail-map)
 
@@ -19,7 +32,6 @@
 [Docker Quizzes and labs](https://training.play-with-docker.com)
 
 [Awesome Kubernetes Resources](https://github.com/ramitsurana/awesome-kubernetes)
-
 
 ## Grafana
 
@@ -52,11 +64,6 @@
 
 ## NSX Stuff
 [Understanding VMware NSX](https://www.juniper.net/documentation/en_US/release-independent/nce/topics/concept/metafabric-2.0-vmware-nsx.html)
-
-## Python Stuff
-
-## Storage Stuff
-[Object vs File](https://cloudian.com/blog/object-storage-vs-file-storage/)
 
 ## Markdown Stuff
 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
