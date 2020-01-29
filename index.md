@@ -14,6 +14,8 @@
 
 [Automate the Boring Stuff 2nd Edition](https://automatetheboringstuff.com/2e/)
 
+[Getting Started with Google Colaboratory](https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c)
+
 ## Storage Stuff
 [Object vs File](https://cloudian.com/blog/object-storage-vs-file-storage/)
 
